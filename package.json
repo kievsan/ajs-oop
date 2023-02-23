@@ -1,0 +1,22 @@
+{
+  "name": "ajs-oop",
+  "version": "1.0.0",
+  "description": "Classes (adv JS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kievsan/ajs-oop.git"
+  },
+  "keywords": [
+    "classes"
+  ],
+  "author": "kievsan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kievsan/ajs-oop/issues"
+  },
+  "homepage": "https://github.com/kievsan/ajs-oop#readme"
+}
