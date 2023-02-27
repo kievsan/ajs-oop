@@ -8,5 +8,5 @@ install:
   - npm install # команда установки зависимостей
 build: on
 test_script:
-  - npm run fix && npm testcov # скрипт сборки
+  - npm run fix && npm run testcov # скрипт сборки
   # - npm run lint && npm test # скрипт сборки
