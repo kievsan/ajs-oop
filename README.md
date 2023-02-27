@@ -1,5 +1,7 @@
 # Домашнее задание к лекции «Классы, наследование»
 
+**CI Test** [![Build status](https://ci.appveyor.com/api/projects/status/sk0ds76bemavspiy?svg=true)](https://ci.appveyor.com/project/kievsan/ajs-oop)
+
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
 **Важно**: код должен проходить ESLint без ошибок.
@@ -9,6 +11,8 @@
 **Важно**: решения должны быть построены на базе [шаблона Webpack](/ci-template).
 
 В личном кабинете на сайте [netology.ru](http://netology.ru/) в поле комментария к домашней работе вставьте ссылки на ваш GitHub-проекты.
+
+**[ссылка на GitHub-проект](https://github.com/kievsan/ajs-test-ci)**
 
 ---
 
