@@ -1,9 +1,9 @@
-// const { default: Character } = require('./character.js');
 import Character from './character.js';
+// const { default: Character } = require('./character.js');
 
 export default class Bowerman extends Character {
-  constructor(name = '', type = '') {
-    super(name, type);
+  constructor(name = '') {
+    super(name, 'Bowerman');
     this.attack = 25;
     this.defence = 25;
   }
